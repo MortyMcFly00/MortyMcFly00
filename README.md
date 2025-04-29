@@ -1,14 +1,16 @@
 👋 Hi, I’m Matt McPhail (@MortyMcFly00)
 
-🚀 Aspirations: Software Engineer aiming to work on thought provoking projects
+🚀 Aspirations: Software Engineering Student aiming to work on thought provoking projects
 
 🌌 Interests: Embedded Engineering, Space, AI, Linux, Software and Hardware Projects
 
 💻 Current Projects:
 
-IoT Smart Garden System: Automating plant care with Arduino-based controls
+Employee Management CLI: A beginner-level Python CLI for managing employee records, built using PyCharm IDE
 
-📚 Currently Learning: C , C++, Python, Embedded Systems, Microcontrollers, and Linux tools
+IoT Smart Garden System: Automating plant care with Arduino-based controls, built using Arduino IDE
+
+📚 Currently Learning: Python, Microcontrollers, and Linux tools
 
 🤝 Looking to Collaborate On: Anything to give me experience!
 
