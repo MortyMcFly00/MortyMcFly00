@@ -14,7 +14,7 @@ My current work is centered on learning through real projects, academic coursewo
 ## Featured Projects
 
 ### Church Community Application
-An ongoing mobile application project designed to centralize a church’s online presence into one location for congregation members and leadership. The MVP includes livestream access, prayer request submission, announcements, and social media integration.
+An ongoing mobile application project designed to centralize a church’s online presence into one location for congregation members and leadership. The MVP will include livestream access, prayer request submission, announcements, and social media integration.
 
 ### FoodDeliveryCo Relational Database
 A MySQL relational database project designed to model a food delivery business with connected tables, keys, constraints, triggers, and populated sample data.
@@ -33,7 +33,7 @@ A Python command-line application for creating, viewing, searching, editing, imp
 - HTML
 - SQL / MySQL
 - React Native
-- Node.js
+- Expo
 - Git / GitHub
 - VS Code
 - Eclipse
