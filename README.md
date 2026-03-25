@@ -6,10 +6,10 @@ My current work is centered on learning through real projects, academic coursewo
 
 ## Current Focus
 
-- Building a **Church Community Application** using React Native, JavaScript, Node.js, and Supabase
-- Strengthening my foundation in **full-stack software development**
+- Building a Church Community Application using React Native, JavaScript, Node.js, and Supabase
+- Strengthening my foundation in full-stack software development
 - Expanding my project portfolio through coursework and personal development
-- Preparing for **internship and junior software engineering opportunities**
+- Preparing for internship and junior software engineering opportunities
 
 ## Featured Projects
 
