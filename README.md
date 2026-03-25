@@ -1,21 +1,57 @@
-👋 Hi, I’m Matt McPhail (@MortyMcFly00)
+# Hi, I'm Matt
 
-🚀 Aspirations: Software Engineering Student aiming to work on thought provoking projects
+I am a Bachelor of Science student in Computer Software Technology at the University of Arizona Global Campus, currently building toward a career in software engineering with a long-term focus on full-stack development.
 
-🌌 Interests: Embedded Engineering, Space, AI, Linux, Software and Hardware Projects
+My current work is centered on learning through real projects, academic coursework, and consistent hands-on practice. I am especially interested in building practical applications that strengthen my understanding of software development lifecycle planning, structured problem-solving, version control, databases, and application design.
 
-💻 Current Projects:
+## Current Focus
 
-Employee Management CLI: A beginner-level Python CLI for managing employee records, built using PyCharm IDE
+- Building a **Church Community Application** using React Native, JavaScript, Node.js, and Supabase
+- Strengthening my foundation in **full-stack software development**
+- Expanding my project portfolio through coursework and personal development
+- Preparing for **internship and junior software engineering opportunities**
 
-IoT Smart Garden System: Automating plant care with Arduino-based controls, built using Arduino IDE
+## Featured Projects
 
-📚 Currently Learning: Python, Microcontrollers, and Linux tools
+### Church Community Application
+An ongoing mobile application project designed to centralize a church’s online presence into one location for congregation members and leadership. The MVP includes livestream access, prayer request submission, announcements, and social media integration.
 
-🤝 Looking to Collaborate On: Anything to give me experience!
+### FoodDeliveryCo Relational Database
+A MySQL relational database project designed to model a food delivery business with connected tables, keys, constraints, triggers, and populated sample data.
 
-📫 Reach Me: Message me via GitHub
-<!---
-MortyMcFly00/MortyMcFly00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ROI Analysis Console Application
+A Java console application that calculates and ranks equipment return on investment using linked-list storage, business formulas, and sorted output.
+
+### Employee Management Console Application
+A Python command-line application for creating, viewing, searching, editing, importing, and exporting employee records.
+
+## Technical Areas
+
+- Java
+- Python
+- JavaScript
+- HTML
+- SQL / MySQL
+- React Native
+- Node.js
+- Git / GitHub
+- VS Code
+- Eclipse
+- JetBrains IDEs
+
+## Currently Learning
+
+- Full-stack application development
+- SDLC planning and modular project structure
+- Version control discipline
+- Database design
+- Frontend and backend integration concepts
+
+## About This Profile
+
+This GitHub documents my growth as a software engineering student through both academic and personal projects. My goal is to keep building practical experience, improve project quality over time, and create a portfolio that reflects consistent progress.
+
+## Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/softwaredad42/]
+- Blogger Portfolio: [https://mcfly-labs42.blogspot.com/]
